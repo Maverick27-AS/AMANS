@@ -1,2 +1,2 @@
 # AMANS
-this is my reository for my project
+this is my repository for projects.
